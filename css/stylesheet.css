@@ -1,0 +1,49 @@
+#content{
+	position: relative;
+	background-color: #ff6600;
+	width: 100%;
+	height: 300px;
+}
+
+	#write{
+		float: left;
+		width: 400px;
+		height: 100%;
+		font-size: 60px;
+		font-weight: bold;
+		text-align: center;
+		line-height: 100%;
+	}
+
+	#father{
+		width: 100%;
+		height: 100%;
+		position: absolute;
+
+	}
+
+		#due{
+			height: 100%;
+			width: 33%;
+			float: right;
+			overflow: hidden;
+	}
+
+	#uno{
+			height: 100px;
+			width: 333px;
+			overflow: hidden;
+	}
+
+	#tre{
+			height: 400px;
+			width: 333px;
+			overflow: hidden;
+	}
+
+	#quattro{
+			height: 500px;
+			width: 400px;
+			overflow: hidden;
+			background-color: #484848;
+	}
