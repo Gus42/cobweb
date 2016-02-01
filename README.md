@@ -14,7 +14,9 @@ $("div").plugCob();
 You can also add options.
 For example, if you want add a cobweb to a div with 'backgound-color: red' I suggest to set the color of cobweb to red with a random opacity. You can also decide how many points you want in your cobweb and how large they are.
 
+'''
 $("div").plugCob({ color: "red",opacity: "random", colorLine: "red", opacityLine: "random", countPoints: 6, radiusPoint: 7});
+'''
 
 Author: Francesco Gusella
 
