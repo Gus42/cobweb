@@ -6,7 +6,7 @@ Date: July, 2015
 - The plugin has multiple options, and it is easly callable with a single line of code jQuery.
 - Responsive to window resizing, the design changes interacting with the cursor.
 
-See here an example: http://kastenotiek0.example.lv/plugin/canvas.html
+See here an example: http://gus42.github.io/cobweb-plugin/
 
 How to call the cobweb:
 $("div").plugCob();
